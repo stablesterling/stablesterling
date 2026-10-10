@@ -1,10 +1,10 @@
 <!--
   ============================================================
-  GitHub Profile README for @stablesterling — v5 "cherry red + 3D fix"
-  Professional cherry-red palette:
-    bg #0d0608 · deep #220a0e · primary #a4132e
-    accent #d90429 · bright #ff5d73 · soft #ffb3c1
-    text #fff5f6 · muted #f2d7da · faint #8a6a70
+  GitHub Profile README for @stablesterling — v6 "sunset"
+  Sunset palette matched to the profile picture:
+    bg #0c0d29 · deep #181736 · primary #b03a24
+    accent #ff6d41 · bright #ffb37a · soft #fde9e0
+    text #fff8f2 · muted #f5ddd0 · faint #8a7a72
   Animations are hand-built SMIL SVGs (header.svg, divider.svg)
   committed to this same repo — GitHub strips scripts/styles,
   so animated SVG is the mk4 look translated to what a
@@ -15,13 +15,13 @@
 <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/header.svg" alt="ABHIRAM UNNI — Full-Stack Developer"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=ff5d73&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;TypeScript+%E2%80%A2+Web+%E2%80%A2+Cloud+%26+DevOps;Building+things+people+actually+use">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=ff5d73&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;TypeScript+%E2%80%A2+Web+%E2%80%A2+Cloud+%26+DevOps;Building+things+people+actually+use" alt="Typing animation"/>
+  <a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=ffb37a&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;TypeScript+%E2%80%A2+Web+%E2%80%A2+Cloud+%26+DevOps;Building+things+people+actually+use">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=ffb37a&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;TypeScript+%E2%80%A2+Web+%E2%80%A2+Cloud+%26+DevOps;Building+things+people+actually+use" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stablesterling&color=d90429&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=stablesterling&color=ff6d41&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/divider.svg" alt=""/>
@@ -40,15 +40,15 @@
 ### Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-d90429?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-d90429?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-d90429?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-d90429?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Python-d90429?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL_Server-d90429?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Git-d90429?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-d90429?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/AWS-d90429?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/TypeScript-ff6d41?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff6d41?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-ff6d41?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-ff6d41?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-ff6d41?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL_Server-ff6d41?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-ff6d41?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-ff6d41?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-ff6d41?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/divider.svg" alt=""/>
@@ -57,10 +57,10 @@
 
 <p>
   <a href="https://github.com/stablesterling/Rasam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stablesterling&repo=Rasam&title_color=fff5f6&text_color=f2d7da&icon_color=ff5d73&bg_color=0d0608&border_color=d90429" alt="Rasam — food ordering website"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stablesterling&repo=Rasam&title_color=fff8f2&text_color=f5ddd0&icon_color=ffb37a&bg_color=0c0d29&border_color=ff6d41" alt="Rasam — food ordering website"/>
   </a>
   <a href="https://github.com/stablesterling/Ecommerce-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stablesterling&repo=Ecommerce-website&title_color=fff5f6&text_color=f2d7da&icon_color=ff5d73&bg_color=0d0608&border_color=d90429" alt="Ecommerce-website — product management website"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stablesterling&repo=Ecommerce-website&title_color=fff8f2&text_color=f5ddd0&icon_color=ffb37a&bg_color=0c0d29&border_color=ff6d41" alt="Ecommerce-website — product management website"/>
   </a>
 </p>
 
@@ -69,11 +69,11 @@
 ### GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stablesterling&show_icons=true&count_private=true&title_color=fff5f6&text_color=f2d7da&icon_color=ff5d73&bg_color=0d0608&border_color=d90429" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=stablesterling&background=0d0608&ring=ff5d73&fire=ff5d73&currStreakNum=fff5f6&sideNums=fff5f6&currStreakLabel=f2d7da&sideLabels=f2d7da&dates=f2d7da&border=d90429" alt="Contribution streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stablesterling&show_icons=true&count_private=true&title_color=fff8f2&text_color=f5ddd0&icon_color=ffb37a&bg_color=0c0d29&border_color=ff6d41" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=stablesterling&background=0c0d29&ring=ffb37a&fire=ffb37a&currStreakNum=fff8f2&sideNums=fff8f2&currStreakLabel=f5ddd0&sideLabels=f5ddd0&dates=f5ddd0&border=ff6d41" alt="Contribution streak" height="165"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stablesterling&layout=compact&langs_count=6&title_color=fff5f6&text_color=f2d7da&bg_color=0d0608&border_color=d90429" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stablesterling&layout=compact&langs_count=6&title_color=fff8f2&text_color=f5ddd0&bg_color=0c0d29&border_color=ff6d41" alt="Top languages"/>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/divider.svg" alt=""/>
@@ -89,14 +89,14 @@
 
 <p>
   <a href="https://abhiramunni451-png.github.io/Portfolio-/">
-    <img src="https://img.shields.io/badge/Portfolio-ef233c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-fb834b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abhiramunni451@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ef233c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-fb834b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/abhiramunni451-png">
-    <img src="https://img.shields.io/badge/@abhiramunni451--png-ef233c?style=for-the-badge&logo=github&logoColor=white" alt="abhiramunni451-png GitHub"/>
+    <img src="https://img.shields.io/badge/@abhiramunni451--png-fb834b?style=for-the-badge&logo=github&logoColor=white" alt="abhiramunni451-png GitHub"/>
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d90429&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6d41&height=120&section=footer" alt="footer"/>
