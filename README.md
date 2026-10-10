@@ -117,7 +117,10 @@
 
 ### Contributions
 
-<img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/github-profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stablesterling/stablesterling/main/contrib-dark.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/contrib-light.svg" alt="Contribution activity"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stablesterling/stablesterling/main/divider-dark.svg"/>
