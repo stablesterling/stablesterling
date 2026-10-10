@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="85%">
+      <stop offset="0%" stop-color="#1b0f3f"/>
+      <stop offset="55%" stop-color="#0d0722"/>
+      <stop offset="100%" stop-color="#050315"/>
+    </radialGradient>
+    <linearGradient id="blobA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f27ce"/>
+      <stop offset="100%" stop-color="#433bff"/>
+    </linearGradient>
+    <linearGradient id="blobB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#433bff"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.4 0; 1.4 0; -1.4 0" dur="5.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#433bff" flood-opacity="0.85"/>
+    </filter>
+    <mask id="titleMask">
+      <text x="600" y="208" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="88" font-weight="700" letter-spacing="14" fill="#ffffff">ABHIRAM UNNI</text>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+
+  <!-- drifting violet blobs : shader-gradient vibe, mk4 -->
+  <g filter="url(#soft)" opacity="0.55">
+    <ellipse cx="300" cy="180" rx="260" ry="150" fill="url(#blobA)">
+      <animate attributeName="cx" values="300;540;300" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="180;110;180" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="900" cy="250" rx="280" ry="160" fill="url(#blobB)">
+      <animate attributeName="cx" values="900;660;900" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="250;310;250" dur="13s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="390" rx="330" ry="120" fill="#2f27ce" opacity="0.55">
+      <animate attributeName="cx" values="600;400;780;600" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- rising particles : mk4 particle-loader vibe -->
+  <g fill="#c9bfff">
+    <circle cx="140" cy="400" r="3" opacity="0">
+      <animate attributeName="cy" values="400;40" dur="9s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="9s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="400" r="2.4" opacity="0">
+      <animate attributeName="cy" values="400;60" dur="11s" begin="-3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="11s" begin="-3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="410" cy="400" r="3.4" opacity="0">
+      <animate attributeName="cy" values="400;30" dur="10s" begin="-6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.85;0" dur="10s" begin="-6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="400" r="2.2" opacity="0">
+      <animate attributeName="cy" values="400;70" dur="12s" begin="-2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="12s" begin="-2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="400" r="3" opacity="0">
+      <animate attributeName="cy" values="400;50" dur="9.5s" begin="-7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.75;0" dur="9.5s" begin="-7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="840" cy="400" r="2.6" opacity="0">
+      <animate attributeName="cy" values="400;40" dur="11.5s" begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="11.5s" begin="-4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="400" r="3.2" opacity="0">
+      <animate attributeName="cy" values="400;60" dur="10.5s" begin="-1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="10.5s" begin="-1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="400" r="2.4" opacity="0">
+      <animate attributeName="cy" values="400;45" dur="12.5s" begin="-8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.65;0" dur="12.5s" begin="-8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- title with violet glow -->
+  <text x="600" y="208" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="88" font-weight="700" letter-spacing="14" fill="#fbfbfe" filter="url(#textGlow)">ABHIRAM UNNI</text>
+  <!-- shimmer sweep across the title -->
+  <rect width="1200" height="420" fill="url(#sweep)" mask="url(#titleMask)"/>
+
+  <!-- subtitle -->
+  <text x="600" y="272" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="26" letter-spacing="10" fill="#dedcff">FULL-STACK DEVELOPER</text>
+  <text x="600" y="318" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="20" letter-spacing="5" fill="#8f86d8">CRAFTING ANIMATED WEB EXPERIENCES
+    <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
