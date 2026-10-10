@@ -1,14 +1,14 @@
 <!--
   ============================================================
-  GitHub Profile README for @stablesterling — v4 "cherry red"
+  GitHub Profile README for @stablesterling — v5 "cherry red + 3D fix"
   Professional cherry-red palette:
     bg #0d0608 · deep #220a0e · primary #a4132e
     accent #d90429 · bright #ff5d73 · soft #ffb3c1
     text #fff5f6 · muted #f2d7da · faint #8a6a70
-  Animations are hand-built SMIL SVGs (header.svg, divider.svg,
-  contrib.svg) committed to this same repo — GitHub strips
-  scripts/styles, so animated SVG is the mk4 look translated
-  to what a profile README can actually run.
+  Animations are hand-built SMIL SVGs (header.svg, divider.svg)
+  committed to this same repo — GitHub strips scripts/styles,
+  so animated SVG is the mk4 look translated to what a
+  profile README can actually run.
   ============================================================
 -->
 
@@ -80,7 +80,8 @@
 
 ### Contributions
 
-<img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/contrib.svg" alt="Contribution data loading animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/contrib.svg" alt="Loading animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/github-profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/stablesterling/stablesterling/main/divider.svg" alt=""/>
 
