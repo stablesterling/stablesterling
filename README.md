@@ -131,7 +131,7 @@
     <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-c9a25e?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/><img src="https://img.shields.io/badge/Portfolio-a67c2e?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"/></picture>
   </a>
   <a href="mailto:abhiramunni451@gmail.com">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-c9a25e?style=for-the-badge&amp;logo=github&amp;logoColor=white"/><img src="https://img.shields.io/badge/Email-a67c2e?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-c9a25e?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/><img src="https://img.shields.io/badge/Email-a67c2e?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></picture>
   </a>
   <a href="https://github.com/abhiramunni451-png">
     <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/@abhiramunni451--png-c9a25e?style=for-the-badge&amp;logo=github&amp;logoColor=white"/><img src="https://img.shields.io/badge/@abhiramunni451--png-a67c2e?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="abhiramunni451-png GitHub"/></picture>
