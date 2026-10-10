@@ -30,7 +30,6 @@
 
 - Full Stack Web Developer intern at **Sandf Technologies, Kozhikode** — built multiple live web pages (Jul 2025 – May 2026)
 - Currently training in **Cloud & DevOps** at **B-Soft** — starting with CCNA networking fundamentals
-- B.Tech in Information Technology (2021 – 2025)
 - I build web apps and clean, animated interfaces
 - Reach me at **abhiramunni451@gmail.com**
 - Portfolio: **[abhiramunni451-png.github.io/Portfolio-](https://abhiramunni451-png.github.io/Portfolio-/)**
